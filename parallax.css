@@ -1,0 +1,38 @@
+body
+{
+    background: lightgray;
+}
+.image1
+{
+    background: url("2.jpg");
+    min-height: 600px;
+   background-size: cover;
+   background-attachment: fixed;
+    
+}
+.image2
+{
+    background: url("5.jpg");
+    min-height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image3
+{
+    background: url("13.png");
+    min-height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p
+{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    background: firebrick;
+    border-radius: 50%;
+}
+
